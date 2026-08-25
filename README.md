@@ -21,6 +21,7 @@ Currently, the following programming languages are included in this repository:
 - [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/mojo-lang.md)
 - [Roc](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/roc-lang.md)
 - [Carbon](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/carbon-lang.md)
+- [SEMAPRAX](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/semaprax-lang.md)
 
 Please feel free to contribute to this list by submitting a pull request!
 
